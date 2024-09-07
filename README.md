@@ -1,4 +1,4 @@
-## **Procurando atletas? Nós te ajudamos!**
+## **Procurando atletas? Nós te ajudamos! Imersão Dev com Google Gemini **
 
 **O que essa aplicação faz?**
 
@@ -24,10 +24,6 @@ Já imaginou ter todos os atletas brasileiros na ponta dos seus dedos? Com essa 
 1. **Clone o repositório:** Faça um clone deste repositório para o seu computador.
 2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador.
 3. **Comece a pesquisar:** Divirta-se explorando o mundo dos atletas brasileiros!
-
-**Contribuições:**
-
-Se você quiser contribuir para este projeto, fique à vontade! Basta criar um fork do repositório, fazer suas alterações e enviar um pull request. 
 
 **Observações:**
 
